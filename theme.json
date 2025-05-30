@@ -1,0 +1,18 @@
+{
+  "background": {
+    "alpha": 255,
+    "url": "https://raw.githubusercontent.com/e1e2e/aliucord-theme-1/refs/heads/main/8a66510c-d580-4669-8c22-099f6e134063.jpeg",
+    "blur_radius": 1,
+    "overlay_alpha": 10
+  },
+  "colors": {},
+  "drawable_tints": {},
+  "fonts": {},
+  "manifest": {
+    "author": "you",
+    "name": "Custom Image Theme",
+    "version": "1.0"
+  },
+  "simple_colors": {},
+  "raws": {}
+}
